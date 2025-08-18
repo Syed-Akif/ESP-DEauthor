@@ -24,15 +24,10 @@ A powerful WiFi testing tool for the **ESP32** that allows you to **deauthentica
 
 ### 🧱 Build from Source (Using PlatformIO)
 
-1. Clone this repo:
-
-   ```bash
-   git clone https://github.com/tesa-klebeband/ESP32-Deauther
-   ```
-2. Install [Visual Studio Code](https://code.visualstudio.com/)
-3. Install the [PlatformIO extension](https://platformio.org/install/ide?install=vscode) in VS Code
-4. Open the cloned folder in VS Code
-5. Click the **Upload** button (✅ icon in the status bar)
+1. Install [Visual Studio Code](https://code.visualstudio.com/)
+2. Install the [PlatformIO extension](https://platformio.org/install/ide?install=vscode) in VS Code
+3. Open the cloned folder in VS Code
+4. Click the **Upload** button (✅ icon in the status bar)
 
 ---
 
