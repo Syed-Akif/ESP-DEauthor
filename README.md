@@ -33,7 +33,7 @@ A powerful WiFi testing tool for the **ESP32** that allows you to **deauthentica
 
 ### 🌐 Flash from Your Browser
 
-1. Open the **[ESP32 Web Flasher](https://tesa-klebeband.github.io/ESP32-Webflasher)** *(Chrome or Edge required)*
+1. Open the **[ESP32 Web Flasher](https://Syed-Akif.github.io/ESP32-Webflasher)** *(Chrome or Edge required)*
 2. Select **ESP32-Deauther**
 3. Follow the on-screen instructions to flash your device
 
