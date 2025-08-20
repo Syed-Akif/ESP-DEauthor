@@ -1,8 +1,8 @@
 # ESP32-Deauther
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/tesa-klebeband/ESP32-Deauther)
-![GitHub License](https://img.shields.io/github/license/tesa-klebeband/ESP32-Deauther)
-![GitHub Repo stars](https://img.shields.io/github/stars/tesa-klebeband/ESP32-Deauther?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/tesa-klebeband/ESP32-Deauther?style=flat)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Syed-Akif/ESP32-Deauther)
+![GitHub License](https://img.shields.io/github/license/Syed-Akif/ESP32-Deauther)
+![GitHub Repo stars](https://img.shields.io/github/stars/Syed-Akif/ESP32-Deauther?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/Syed-AKif/ESP32-Deauther?style=flat)
 ![logo](https://github.com/user-attachments/assets/4e2ac65f-1b25-4a97-822a-6a91ca71b5be)
 
 A project for the ESP32 that allows you to deauthenticate stations connected to WiFi network
@@ -11,14 +11,14 @@ This tool has been made for educational and testing purposes only. Any misuse or
 ## Building
 Clone this repo using:
 
-`git clone https://github.com/tesa-klebeband/ESP32-Deauther`
+`git clone https://github.com/Syed-Akif/ESP32-Deauther`
 
 1) Install vscode and PlatformIO
 2) Install the PlatformIO extension in vscode
 3) Open the cloned folder in vscode and press the upload button
 
 ## Installing directly from your Browser
-Open my [ESP32-Webflasher](https://tesa-klebeband.github.io/ESP32-Webflasher) in Chrome or Edge, select `ESP32-Deauther` and follow the listed instructions
+Open my [ESP32-Webflasher](https://Syed-Akif.github.io/ESP32-Webflasher) in Chrome or Edge, select `ESP32-Deauther` and follow the listed instructions
 
 ## Using ESP32-Deauther
 The ESP32 hosts a WiFi network with the name of `ESP32-Deauther` and a password of `esp32wroom32`. Connect to this network and type the IP of your ESP32 (typically **192.168.4.1**) into a webbrowser of a choice. You will see the following options:
